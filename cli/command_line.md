@@ -4,14 +4,14 @@
 ![fs](https://www.ibm.com/support/knowledgecenter/zosbasics/com.ibm.zos.zconcepts/zOSB025.gif)
 
 ## Commands
-* `ls`: list contents of the current directory <br/>
-* `cd`: changes directory <br/>
-  - `cd ..`: navigates up the file system
-  - `cd <name>`: navigates into a folder with `<name>` <br/>
-* `pwd`: print the location of the current working directory<br/>
-* `mkdir <name>`: makes a new directory called `<name>`<br/>
-* `touch <name>`: makes a new file called `<name>`<br/>
-* `gedit <name>`: opens a file in the `gedit` program <br/>
+* `ls` => list contents of the current directory <br/>
+* `cd` => changes directory <br/>
+  - `cd ..` => navigates up the file system
+  - `cd <name>` => navigates into a folder with `<name>` <br/>
+* `pwd` => print the location of the current working directory<br/>
+* `mkdir <name>` => makes a new directory called `<name>`<br/>
+* `touch <name>` => makes a new file called `<name>`<br/>
+* `gedit <name>` => opens a file in the `gedit` program <br/>
 
 ## Exercises
 1) Make a folder named `me` on your Desktop.
