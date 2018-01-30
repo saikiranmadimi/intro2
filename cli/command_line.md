@@ -6,8 +6,8 @@
 ## Commands
 `ls` - list contents of the current directory <br/>
 `cd` - changes directory <br/>
-  - `cd ..` - navigates up the file system
-  - `cd <name>` - navigates into a folder with `<name>`
+  * `cd ..` - navigates up the file system
+  * `cd <name>` - navigates into a folder with `<name>` <br/>
 `pwd` - print the location of the current working directory<br/>
 `mkdir <name>` - makes a new directory called `<name>`<br/>
 `touch <name>` - makes a new file called `<name>`<br/>
@@ -18,8 +18,8 @@
 2) Make a folder within `me` named `travel`. Navigate into the newly created folder.
 3) Create five files with different extensions(i.e `.docx`, `.pdf`, `.html`, `.nlogo`) named with the top 5 countries you'd like to visit.
 4) Make a folder within `me` named `music`. Navigate into the newly created folder.
-5) Make three `.txt` files within the `music` folder with names of your favorite bands.
-6) Open the empty `.txt` files and write your two favorite songs by each band.
+5) Make three `.txt` files within the `music` folder with names of your favorite bands or artists.
+6) Open the empty `.txt` files and write your two favorite songs by each band or artist.
 7) Make a folder within `me` named `food`. Navigate into the newly created folder.
 8) Make three `.txt` files within the `food` folder with names of your three favorite cuisines.
 9) Open the empty `.txt` files using the `gedit` command and write your two favorite dishes of the cuisine.
