@@ -12,7 +12,7 @@ HTML stands for HyperText Markup Language. It is used to organize the content on
 
 The opening tag is characterized by the tag name enclosed in angled brackets: `< tagName >`. The closing tag is also characterized by angled brackets, but the tag name is preceded with a backslash: `< / tagName >`
 
-## Standard Template
+### Standard Template
 ```html
 <!DOCTYPE HTML>
 <html>
@@ -21,7 +21,7 @@ The opening tag is characterized by the tag name enclosed in angled brackets: `<
 </html>
 ```
 
-## Common HTML Tags
+### Common HTML Tags
 ### Page Title
 ```html
 <head>
@@ -88,10 +88,10 @@ The URL(https://developer.mozilla.org) within the quotation marks determines whe
 <a href="https://developer.mozilla.org">MDN</a>
 ```
 
-## Exercise
+## Activity
 [Source: Coder](https://googlecreativelab.github.io/coder-projects/projects/perfect_recipe/)
 
-## Instructions
+### Instructions
 Make a page of your favorite recipe. It should look similar to this:
 
 ![pb&j](https://github.com/C4Q/AC_4_Web/blob/master/units/html/projects/lists/assets/screenshot.png?raw=true)
@@ -104,5 +104,5 @@ Include the following:
 5. Add an image below the main heading
 
 ## Resources
-1) [htmldog](http://www.htmldog.com/references/html/tags/)
-2) [mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
+1) [HTMLDog - HTML Tags](http://www.htmldog.com/references/html/tags/)
+2) [Mozilla - HTML Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
