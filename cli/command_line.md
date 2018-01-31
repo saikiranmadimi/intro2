@@ -1,5 +1,9 @@
 # Command Line
 
+## Objectives
+* Be able to navigate through a computer's file system using the command Line
+* Be able to create folders and files using the command line
+
 ## File System
 ![fs](https://www.ibm.com/support/knowledgecenter/zosbasics/com.ibm.zos.zconcepts/zOSB025.gif)
 
