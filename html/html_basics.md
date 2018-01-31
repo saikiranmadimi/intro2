@@ -22,14 +22,14 @@ The opening tag is characterized by the tag name enclosed in angled brackets: `<
 ```
 
 ### Common HTML Tags
-### Page Title
+#### Page Title
 ```html
 <head>
   <title>WOOPEGSOOIE</title>
 </head>
 ```
 
-### Headers
+#### Headers
 ```html
 <h1> Hello World </h1>
 <h2> Hello World </h2>
@@ -39,7 +39,7 @@ The opening tag is characterized by the tag name enclosed in angled brackets: `<
 <h6> Hello World </h6>
 ```
 
-### Lists
+#### Lists
 ```html
   <ul> Numbers
     <li> 1 </li>
@@ -55,7 +55,7 @@ The opening tag is characterized by the tag name enclosed in angled brackets: `<
   </ol>
 ```
 
-### Line Break
+#### Line Break
 ```html
 Congratulations! <br>
 Today is your day. <br>
@@ -70,7 +70,7 @@ You're on your own. And you know what you know. <br>
 And YOU are the guy who'll decide where to go. <br>
 ```
 
-### Images
+#### Images
 ```html
 <tag attribute="value"></tag>
 ```
@@ -82,7 +82,7 @@ The source(src) attribute specifies what image is being rendered onto the page, 
 
 Notice anything weird about the code above? It's called a self-closing tag. Because the image doesn't have any text content, we don't need two tags.
 
-### Links
+#### Links
 The URL(https://developer.mozilla.org) within the quotation marks determines where you're taken when the link is clicked. Whatever is inside of the html tags(MDN) is what's displayed on your actual page.
 ```html
 <a href="https://developer.mozilla.org">MDN</a>
