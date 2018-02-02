@@ -111,8 +111,5 @@ Paste the code below to observe the difference between a `div` and a `span`.
 
 
 ## Resources
-* Use [Google Fonts](https://www.google.com/fonts)!
-* Post your website to Github.
-  - Create a new repository named `<username>.github.io`.
-  - Upload an `index.html` to the repo.
-  - Type `<username>.github.io` in the address bar of your browser. Your stuff is live! (it might actually take a few minutes to go live)
+* Import a font - [instructions here](./importing_fonts.md)
+* Upload a webpage to GitHub - [instructions here](../html/github_pages.md)
