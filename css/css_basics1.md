@@ -3,7 +3,7 @@
 ## Introduction
 CSS stands for Cascading Style Sheets. It is used to add styling and format to HTML. There are three ways to add styling: using inline CSS, adding an internal stylesheet, or adding an external stylesheet.
 
-<iframe src="https://giphy.com/embed/13XW2MJE0XCoM0" width="480" height="361" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![css](http://media2.giphy.com/media/13FrpeVH09Zrb2/giphy.gif)
 
 ### Inline CSS
 ````html
