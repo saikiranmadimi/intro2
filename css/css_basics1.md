@@ -3,11 +3,13 @@
 ## Introduction
 CSS stands for Cascading Style Sheets. It is used to add styling and format to HTML. There are three ways to add styling: using inline CSS, adding an internal stylesheet, or adding an external stylesheet.
 
+![Peter](https://i.giphy.com/media/13XW2MJE0XCoM0/giphy.webp)
+
 ### Inline CSS
 ````html
 <div style="color: green;">Bulbasaur</div>
 ````
-The code above turns the word, `bulbasaur` green.
+The code above turns the word, `Bulbasaur` green.
 
 ### Internal Stylesheet
 ```html
@@ -86,7 +88,7 @@ Paste the code below to observe the difference between a `div` and a `span`.
 ```html
 <span>It was the best of times,</span>
 <span>it was the worst of times,</span>
-<div>it was the age of wisdom...</div>
+<div>it was the age of wisdom,</div>
 <span>it was the age of foolishness,</span>
 <div>it was the epoch of belief,</div>
 <span>it was the epoch of incredulity,</span>
@@ -113,4 +115,4 @@ Paste the code below to observe the difference between a `div` and a `span`.
 * Post your website to Github.
   - Create a new repository named `<username>.github.io`.
   - Upload an `index.html` to the repo.
-  - Type `<username>.github.io` in the address bar of your browser. Your stuff is live! (But it might actually take a few minutes to go live.)
+  - Type `<username>.github.io` in the address bar of your browser. Your stuff is live! (it might actually take a few minutes to go live)
