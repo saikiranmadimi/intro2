@@ -57,7 +57,7 @@ div {
   color: blue;
 }
 ```
-* To select for an element with a particular `id`, precede the id name with a `#`.
+* To select for an element with a particular `id`, precede the id name with a hashtag, `#`.
 ```html
 <div id="greeting">hello world</div>
 ```
@@ -66,7 +66,7 @@ div {
   color: yellow;
 }
 ```
-* To select for an element with a particular `class`, precede the class name with a `#`
+* To select for an element with a particular `class`, precede the class name with a period, `.`
 ```html
 <div class="stuy">stuyvesant</div>
 ```
