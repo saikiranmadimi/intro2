@@ -86,13 +86,13 @@ Inline elements take up on the space they need. A `<span>` is the standard inlin
 
 Paste the code below to observe the difference between a `div` and a `span`.
 ```html
-<span>It was the best of times,</span>
-<span>it was the worst of times,</span>
-<div>it was the age of wisdom,</div>
-<span>it was the age of foolishness,</span>
-<div>it was the epoch of belief,</div>
-<span>it was the epoch of incredulity,</span>
-<div>it was the season of Light, </div>
+<span style="background: rebeccapurple;">It was the best of times,</span>
+<span style="background: rebeccapurple;">it was the worst of times,</span>
+<div style="background: cornflowerblue;">it was the age of wisdom,</div>
+<span style="background: rebeccapurple;">it was the age of foolishness,</span>
+<span style="background: rebeccapurple;">it was the epoch of belief,</span>
+<span style="background: rebeccapurple;">it was the epoch of incredulity,</span>
+<div style="background: cornflowerblue;">it was the season of Light, </div>
 ```
 
 ## Activity
