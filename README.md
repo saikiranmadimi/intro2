@@ -1,6 +1,8 @@
 # Introduction to Computer Science
 
 ## Announcements
+**15 question multiple-choice quiz on Friday 2/9 covering HTML and CSS**
+Anything in the Homework 0 readings is fair game for the quiz.
 
 ## Schedule
 |  Date      | Lesson |

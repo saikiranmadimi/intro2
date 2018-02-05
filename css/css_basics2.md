@@ -16,6 +16,9 @@ Clicking on the `Green` link will bring you to the HTML element with an id of `#
 ### Linking to other HTML Pages
 Let's say you have multiple HTML pages you want to display. You can link to another HTML page by using the filename of the other HTML page if it is in the same folder as the HTML page you're currently on. <br>
 Let's say you have two HTML pages - `index.html` and `recipe.html`. You want to create a link that brings you to the `recipe` from the `index`. In the index.html, you'll want to use the name of the recipe file as the `href` of a link.
+```html
+<a href="otherpage.html">Head over to another page!</a>
+```
 
 ### External Stylesheet
 ````html
@@ -33,3 +36,26 @@ div {
   color: green;
 }
 ````
+
+### Exercises
+#### Table of Contents
+For each of your webpages, add a table of contents to the top that links to particular sections on the same page.
+* Recipe
+  - Description
+  - Ingredients
+  - Instructions
+* Buzzfeed
+  - Titles of each item
+* Tripadvisor
+  - Hotels
+  - Things to Do
+  - Restaurants
+
+#### Connect your Webpages
+Create a folder and put all your html files in that one folder. For each webpage, insert a link that brings you to the other webpages you've created.
+* Recipe => Buzzfeed, Recipe => TripAdvisor
+* Buzzfeed => Recipe, Buzzfeed => TripAdvisor
+* TripAdvisor => Recipe, TripAdvisor => Buzzfeed
+
+#### Add External Stylesheet
+Create a file called `style.css` in the folder you created before. Take out all of the CSS from each of your html files and place them in the `style.css` file. Be sure to add the `link` tag to the head of each `.html` file.
