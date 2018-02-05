@@ -23,24 +23,6 @@ The code above turns the word, `Bulbasaur` green.
 </head>
 ```
 
-### External Stylesheet
-````html
-<link rel="stylesheet" href="style.css"  charset="utf-8">
-````
-You place the above link tag in the `<head>` that references a CSS file. <br>
-
-Inside your `.html` file -
-````html
-<div>Bulbasaur</div>
-````
-Inside your `.css` file -
-````css
-div {
-  color: green;
-}
-````
-
-
 ### CSS Syntax
 ````css
 selector {
