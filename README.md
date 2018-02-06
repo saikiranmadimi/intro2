@@ -7,7 +7,7 @@ Anything in the Homework 0 readings is fair game for the quiz.
 ## Schedule
 |  Date      | Lesson |
 |:----------:|:------:|
-| 2018-02-06 |[CSS III](css/css_basics3.md) + [Mondorian](css/mondorian.md)|
+| 2018-02-06 |[CSS III](css/css_basics3.md) + [Mondrian](css/mondrian.md)|
 | 2018-02-05 |[CSS II](css/css_basics2.md)|
 | 2018-02-02 |[CSS I](css/css_basics1.md)|
 | 2018-02-01 |[HTML II](html/html_basics2.md)|

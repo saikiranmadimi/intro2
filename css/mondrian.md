@@ -1,4 +1,4 @@
-# Modern Mondorian
+# Modern Mondrian
 
 [Source: Coder](https://googlecreativelab.github.io/coder-projects/projects/mondrian/)
 
