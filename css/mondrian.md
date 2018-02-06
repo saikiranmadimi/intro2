@@ -49,7 +49,7 @@ _The new CSS code we added looks like this:_
     margin-top: 30px;
     margin-left: auto;
     margin-right: auto;
-    box-shadow: 10px 10px 0px #8d8d8d;
+    box-shadow: 10px 10px 5px #8d8d8d;
 }
 ```
 
@@ -144,8 +144,7 @@ Classes are similar to the #id styles we’ve been working with except the same 
 
 ```css
 .red {
-    background-color:
-    red;
+    background-color: red;
 }
 ```
 
@@ -199,7 +198,9 @@ There are many different ways of positioning an element the but method we will b
 _Here's the relevant CSS:_
 
 ```css
-.right { float: right; }
+.right {
+  float: right;
+}
 ```
 
 _And here's what changed in the HTML:_
@@ -280,7 +281,7 @@ _Our CSS additions look like:_
 #divider2 {
     height: 10px;
     width: 100px;
-    }
+}
 ```
 
 Since the two boxes are the exact same size we can use one **.class** for both of them instead of using a unique **#id**.
