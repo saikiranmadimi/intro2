@@ -1,8 +1,6 @@
 # Introduction to Computer Science
 
 ## Announcements
-**15 question multiple-choice quiz on Friday 2/9 covering HTML and CSS**
-Anything in the Homework 0 readings is fair game for the quiz.
 
 ## Schedule
 |  Date      | Lesson |
@@ -17,5 +15,5 @@ Anything in the Homework 0 readings is fair game for the quiz.
 | 2018-01-30 |[Command Line Interface](cli/command_line.md)|
 
 ## Homework
-[Homework #1](./homework/homework1.md)
+[Homework #1](./homework/homework1.md)<br>
 [Homework #0](./homework/homework0.md)
