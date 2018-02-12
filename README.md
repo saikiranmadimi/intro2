@@ -7,6 +7,7 @@ Anything in the Homework 0 readings is fair game for the quiz.
 ## Schedule
 |  Date      | Lesson |
 |:----------:|:------:|
+| 2018-02-12 |[Python](python/setup.md)|
 | 2018-02-08 |[CSS IV](css/css_basics4.md)|
 | 2018-02-06 |[CSS III](css/css_basics3.md) + [Mondrian](css/mondrian.md)|
 | 2018-02-05 |[CSS II](css/css_basics2.md)|
@@ -16,4 +17,5 @@ Anything in the Homework 0 readings is fair game for the quiz.
 | 2018-01-30 |[Command Line Interface](cli/command_line.md)|
 
 ## Homework
+[Homework #1](./homework/homework1.md)
 [Homework #0](./homework/homework0.md)
