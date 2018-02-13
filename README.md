@@ -5,6 +5,7 @@
 ## Schedule
 |  Date      | Lesson |
 |:----------:|:------:|
+| 2018-02-13 |[Python](python/datatypes.md)|
 | 2018-02-12 |[Python](python/setup.md)|
 | 2018-02-08 |[CSS IV](css/css_basics4.md)|
 | 2018-02-06 |[CSS III](css/css_basics3.md) + [Mondrian](css/mondrian.md)|
