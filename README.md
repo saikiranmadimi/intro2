@@ -5,7 +5,7 @@
 ## Schedule
 |  Date      | Lesson |
 |:----------:|:------:|
-| 2018-02-14 |[Python: Arguments, Booleans]](python/boolean.md)|
+| 2018-02-14 |[Python: Arguments, Booleans](python/boolean.md)|
 | 2018-02-13 |[Python: DataTypes](python/datatypes.md)|
 | 2018-02-12 |[Python](python/setup.md)|
 | 2018-02-08 |[CSS IV](css/css_basics4.md)|
