@@ -5,6 +5,7 @@
 ## Schedule
 |  Date      | Lesson |
 |:----------:|:------:|
+| 2018-02-14 |[Python: Conditionals](python/conditionals.md)|
 | 2018-02-14 |[Python: Arguments, Booleans](python/boolean.md)|
 | 2018-02-13 |[Python: DataTypes](python/datatypes.md)|
 | 2018-02-12 |[Python](python/setup.md)|
@@ -17,6 +18,7 @@
 | 2018-01-30 |[Command Line Interface](cli/command_line.md)|
 
 ## Homework
+[Homework #3](./homework/homework3.md) <br>
 [Homework #2](./homework/homework2.md) <br>
 [Homework #1](./homework/homework1.md)<br>
 [Homework #0](./homework/homework0.md)

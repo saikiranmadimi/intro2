@@ -27,7 +27,6 @@ else:
 ```
 
 ## Arguments
-You
 ```python
 def addThree(arg):
   return arg + 3
