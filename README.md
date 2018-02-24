@@ -5,7 +5,12 @@
 ## Schedule
 |  Date      | Lesson |
 |:----------:|:------:|
-| 2018-02-14 |[Python: Conditionals](python/conditionals.md)|
+| 2018-02-02 |[Python: ]()|
+| 2018-03-01 |[Python: ]()|
+| 2018-02-28 |[Python: ]()|
+| 2018-02-27 |[Python: ]()|
+| 2018-02-26 |[Python: ]()|
+| 2018-02-15 |[Python: Conditionals](python/conditionals.md)|
 | 2018-02-14 |[Python: Arguments, Booleans](python/boolean.md)|
 | 2018-02-13 |[Python: DataTypes](python/datatypes.md)|
 | 2018-02-12 |[Python](python/setup.md)|
