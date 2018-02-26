@@ -1,12 +1,3 @@
-# String Methods
-
-## String Index
-```python
-"hello world"[0]
-"hello world"[3]
-"hello world"[-3]
-```
-
 ## General String methods
 ```python
 "string".method()
