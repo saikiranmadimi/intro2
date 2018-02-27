@@ -5,7 +5,8 @@
 ## Schedule
 |  Date      | Lesson |
 |:----------:|:------:|
-| 2018-02-26 |[Python: Variables & String Methods](python/strings/intro.md)|
+| 2018-02-27 |[Python: String Methods](python/strings/methods.md)|
+| 2018-02-26 |[Python: Variables & String Indices](python/strings/intro.md)|
 | 2018-02-15 |[Python: Conditionals](python/conditionals.md)|
 | 2018-02-14 |[Python: Arguments, Booleans](python/boolean.md)|
 | 2018-02-13 |[Python: DataTypes](python/datatypes.md)|
