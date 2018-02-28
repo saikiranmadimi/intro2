@@ -5,6 +5,7 @@
 ## Schedule
 |  Date      | Lesson |
 |:----------:|:------:|
+| 2018-02-28 |[Python: Review]|
 | 2018-02-27 |[Python: String Methods](python/strings/methods.md)|
 | 2018-02-26 |[Python: Variables & String Indices](python/strings/intro.md)|
 | 2018-02-15 |[Python: Conditionals](python/conditionals.md)|
