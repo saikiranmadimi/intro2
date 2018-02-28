@@ -20,6 +20,7 @@
 | 2018-01-30 |[Command Line Interface](cli/command_line.md)|
 
 ## Homework
+[Homework #5](./homework/homework5.md) <br>
 [Homework #4](./homework/homework4.md) <br>
 [Homework #3](./homework/homework3.md) <br>
 [Homework #2](./homework/homework2.md) <br>
