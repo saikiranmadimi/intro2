@@ -10,11 +10,11 @@ chr(int)
 ```
 ## Escape Sequences
 Special characters contained in a string
-  - \t tab
-  - \n newline
-  - \\ backslash
-  - \' single quote
-  - \" double quote
+  - `\t` tab
+  - `\n` newline
+  - `\\` backslash
+  - `\'` single quote
+  - `\"` double quote
 
 ## Experiment
 * Map out the ASCII values of characters in python. What are some strategies to explore the values?
