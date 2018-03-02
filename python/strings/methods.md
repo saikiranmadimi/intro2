@@ -1,4 +1,4 @@
-# Strings
+# String Methods
 
 ## String functions
 1. len(string)
