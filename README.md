@@ -5,7 +5,7 @@
 ## Schedule
 |  Date      | Lesson |
 |:----------:|:------:|
-| 2018-03-01 |[Python: String Methods II](python/strings/methods2.md)|
+| 2018-03-02 |[Python: String Methods II](python/strings/methods2.md)|
 | 2018-03-01 |[ASCII](python/strings/ascii.md)|
 | 2018-02-28 |[Python: Review]|
 | 2018-02-27 |[Python: String Methods](python/strings/methods.md)|
