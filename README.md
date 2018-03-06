@@ -5,6 +5,7 @@
 ## Schedule
 |  Date      | Lesson |
 |:----------:|:------:|
+| 2018-03-06|[Python: Loops](python/loops2.md)|
 | 2018-03-05 |[Python: raw_input & while](python/loops.md)|
 | 2018-03-02 |[Python: String Methods II](python/strings/methods2.md)|
 | 2018-03-01 |[ASCII](python/strings/ascii.md)|

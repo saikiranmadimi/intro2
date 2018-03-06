@@ -25,16 +25,3 @@ if num != "5":
 ## Exercises
 1. Writing a python script and keeps asking for an integer until it receives a valid input.
 2. Print out all the even numbers between 100 and 800 inclusive.
-3. Write a function that receives a number and returns true or false whether a number is a prime number. You should only be inputting numbers greater than 1
-```python
-isPrime(0) #returns the message "invalid input. please enter a number greater than 1: "
-isPrime(1) #returns the message "invalid input. please enter a number greater than 1: "
-isPrime(2) #returns True
-isPrime(5) #returns True
-isPrime(8) #returns False
-```
-4. Write a function that receives a string and returns the string with alternating cases.
-```python
-wackyCase("hello") #returns "hElLo"
-wackyCase("pikachu") #returns "pIkAcHu"
-```
