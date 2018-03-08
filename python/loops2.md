@@ -1,5 +1,24 @@
 # While Loops
 
+## How to print the characters of a string backwards
+### Option 1
+```python
+def printBack(word):
+  idx = len(word) - 1
+  while idx > 0:
+    print word[idx]
+    idx = idx - 1
+```
+### Option 2
+```python
+def printBack(word):
+  idx = -1
+  while idx >= -(len(word)):
+    print word[idx]
+    idx = idx - 1
+```
+
+
 1. Ask the user for a number between 1 and 10 inclusive, if the user doesn't comply then keep asking. <br>
 Test Run:
 ```
