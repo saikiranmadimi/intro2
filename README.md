@@ -5,6 +5,7 @@
 ## Schedule
 |  Date      | Lesson |
 |:----------:|:------:|
+| 2018-03-13|[Python: Exam Review](python/exam1.md)|
 | 2018-03-12|[Python: Lists](python/lists1.md)|
 | 2018-03-08|[Python: Practice Exam](python/practice.md)|
 | 2018-03-06|[Python: Loops](python/loops2.md)|
