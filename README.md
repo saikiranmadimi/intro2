@@ -1,10 +1,12 @@
 # Introduction to Computer Science
 
 ## Announcements
+**EXAM FRIDAY MARCH 23RD**
 
 ## Schedule
 |  Date      | Lesson |
 |:----------:|:------:|
+| 2018-03-15|[Python: split & join](python/string_list.md)|
 | 2018-03-13|[Python: Exam Review](python/exam1.md)|
 | 2018-03-12|[Python: Lists](python/lists1.md)|
 | 2018-03-08|[Python: Practice Exam](python/practice.md)|
