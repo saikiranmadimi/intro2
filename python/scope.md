@@ -19,5 +19,5 @@ def addOne():
 
 ## Exercise
 Go [here](tictactoe_scaffold.py) for a tic-tac-toe scaffold.
-[Ask](ask.png)
-[Win](win.png)
+![Ask](ask.png)
+![Win](win.png)
