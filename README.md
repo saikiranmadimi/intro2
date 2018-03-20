@@ -6,6 +6,7 @@
 ## Schedule
 |  Date      | Lesson |
 |:----------:|:------:|
+| 2018-03-20|[Python: TicTacToe Part II](python/scope.md)|
 | 2018-03-19|[Python: TicTacToe & Variable Scope](python/scope.md)|
 | 2018-03-16|[Python: 2D Arrays / Matrix](python/matrix.md)|
 | 2018-03-15|[Python: split & join](python/string_list.md)|
