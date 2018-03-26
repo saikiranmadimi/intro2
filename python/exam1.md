@@ -4,10 +4,10 @@
 ```python
 4 % 3 / 8 + 7 * 2 - 9
 ```
-**a.** 5 <br>
-**b.** 4 <br>
-**c.** 2 <br>
-**d.** 0 <br>
+**a.** 5 
+**b.** 4 
+**c.** 2 
+**d.** 0 
 **e.** None of the above
 #### Question 2 - Which one of the following isn't matched up with the correct output?
 ```python
