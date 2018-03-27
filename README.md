@@ -1,11 +1,11 @@
 # Introduction to Computer Science
 
 ## Announcements
-**EXAM FRIDAY MARCH 23RD**
 
 ## Schedule
 |  Date      | Lesson |
 |:----------:|:------:|
+| 2018-03-27|[Python: Recursion II](python/recursionII.md)|
 | 2018-03-26|[Python: Recursion](python/recursion.md)|
 | 2018-03-22|[Python: Exam Review & Pair Programming](python/practice_exam_2.md)|
 | 2018-03-20|[Python: TicTacToe Part II](python/scope.md)|
