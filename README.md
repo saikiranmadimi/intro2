@@ -5,6 +5,7 @@
 ## Schedule
 |  Date      | Lesson |
 |:----------:|:------:|
+| 2018-04-09|[Python: Searching Algorithms - Binary Search](python/binarysearch.md)|
 | 2018-03-28|[Python: Recursion III](python/recursionIII.md)|
 | 2018-03-27|[Python: Recursion II](python/recursionII.md)|
 | 2018-03-26|[Python: Recursion](python/recursion.md)|
