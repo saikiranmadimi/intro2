@@ -19,6 +19,13 @@ nums = [1, 2, 3, 4, 5]
 nums.pop(0) # returns 1 and turns nums into [2, 3, 4, 5]
 ```
 
+## `.remove()`
+the remove method removes the first occurrence of the argument passed
+```python
+nums = [1, 2, 3, 4, 5, 1]
+nums.remove(1) # nums is now [2, 3, 4, 5, 1]
+```
+
 ## adding lists or concatenation
 ```python
 [1, 2, 3] + [4, 5] # returns [1, 2, 3, 4, 5]
@@ -26,6 +33,6 @@ nums.pop(0) # returns 1 and turns nums into [2, 3, 4, 5]
 
 # Quick Sort
 1. Pick an element, called a pivot, from the array.
-2. Partitioning: reorder the array so that all elements with values less than the pivot come before the pivot, while all elements with values greater than the pivot come after it (equal values can go either way). After this partitioning, the pivot is in its final position. This is called the partition operation.
+2. Partitioning: reorder the array so that all elements with values less than the pivot come before the pivot, while all elements with values greater than the pivot come after it (equal values can go either way). After this partitioning, the pivot is in its final position. 
 3. Recursively apply the above steps to the sub-array of elements with smaller values and separately to the sub-array of elements with greater values.
 [Visualization](http://sorting.at/)
