@@ -5,6 +5,7 @@
 ## Schedule
 |  Date      | Lesson |
 |:----------:|:------:|
+| 2018-04-11|[Python: More for loops](python/forfor.md)|
 | 2018-04-11|[Python: for loops & nested loops](python/for.md)|
 | 2018-04-10|[Python: Sorting Algorithms - Quick Sort](python/sort.md)|
 | 2018-04-09|[Python: Searching Algorithms - Binary Search](python/binarysearch.md)|
