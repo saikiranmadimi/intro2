@@ -5,6 +5,7 @@
 ## Schedule
 |  Date      | Lesson |
 |:----------:|:------:|
+| 2018-04-16|[Project Euler](python/euler.md)|
 | 2018-04-13|[Cambridge Analytica](python/basicdb.md)|
 | 2018-04-12|[Python: More for loops](python/forfor.md)|
 | 2018-04-11|[Python: for loops & nested loops](python/for.md)|
