@@ -5,6 +5,7 @@
 ## Schedule
 |  Date      | Lesson |
 |:----------:|:------:|
+| 2018-04-17|[Python: Range](python/range.md)|
 | 2018-04-16|[Project Euler](python/euler.md)|
 | 2018-04-13|[Cambridge Analytica](python/basicdb.md)|
 | 2018-04-12|[Python: More for loops](python/forfor.md)|
