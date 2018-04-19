@@ -5,6 +5,7 @@
 ## Schedule
 |  Date      | Lesson |
 |:----------:|:------:|
+| 2018-04-19|[Python: CSV](python/csv.md)|
 | 2018-04-18|[Python: Files](python/files.md)|
 | 2018-04-17|[Python: Range](python/range.md)|
 | 2018-04-16|[Project Euler](python/euler.md)|
