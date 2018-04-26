@@ -5,6 +5,7 @@
 ## Schedule
 |  Date      | Lesson |
 |:----------:|:------:|
+| 2018-04-26|[Python: Exam 2](python/exam2.md)|
 | 2018-04-23|[Python: Review](python/solutions/projecteuler.md)|
 | 2018-04-20|[Python: Data](python/sats.md)|
 | 2018-04-19|[Python: CSV](python/csv.md)|
