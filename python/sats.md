@@ -15,5 +15,44 @@
 You can use the `.sort()` method.
 * Find the 10 schools that had the highest Math scores
 * Find the 10 schools that had the highest Writing scores
-* Find the 10 schools that had the highest Reading scores
 * Add another column with each school's average total SAT score
+
+### Code
+```python
+def getScore(school, section):
+	school = school.split(",")
+	if section == "math":
+		section = -2
+	elif section == "reading":
+		section = -3
+	if school[section] == "s":
+		return 0
+	else:
+	 	return int(school[section])
+
+def getName(school):
+	school = school.split(",")
+	return ",".join(school[1:-4])
+	# excludes the first element and last four elements
+
+def genReport(section):
+	data = open("sats.csv", "r")
+	scores = []
+	topschools = []
+	schools = data.readlines()[1:] # getting rid of the labels
+	for school in schools:
+		scores.append(getScore(school,section))
+
+	data.close()
+	x = 0
+	while x < 10:
+		# finds, stores, and removes school with the max score
+		maxIdx = scores.index(max(scores))
+		topschools.append(getName(schools[maxIdx]))
+		schools.pop(maxIdx)
+		scores.pop(maxIdx)
+		x += 1
+	return topschools
+
+print genReport("reading")
+```

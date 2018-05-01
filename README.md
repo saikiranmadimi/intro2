@@ -5,10 +5,11 @@
 ## Schedule
 |  Date      | Lesson |
 |:----------:|:------:|
+| 2018-05-01|[Python: CSV II](python/sats.md)|
 | 2018-04-26|[Python: Exam 2](python/exam2.md)|
 | 2018-04-23|[Python: Review](python/solutions/projecteuler.md)|
 | 2018-04-20|[Python: Data](python/sats.md)|
-| 2018-04-19|[Python: CSV](python/csv.md)|
+| 2018-04-19|[Python: CSV I](python/csv.md)|
 | 2018-04-18|[Python: Files](python/files.md)|
 | 2018-04-17|[Python: Range](python/range.md)|
 | 2018-04-16|[Project Euler](python/euler.md)|
