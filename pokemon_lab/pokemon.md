@@ -39,5 +39,10 @@ makPokemonImgTag("charmander") # returns "https://img.pokemondb.net/sprites/x-y/
 3. Read through the lines of the `pokemon.csv` using the appropriate method.
 3. Loop through the lines extracting the name of the Pokemon.
 4. Pass the name of the Pokemon to your `makePokemonImgTag()` function.
-5. Insert all the `img` tags you're making in the loop to the content that you pass to the `makeWebPage()`. If it works, your webpage should look something like: 
+5. Insert all the `img` tags you're making in the loop to the content that you pass to the `makeWebPage()`. If it works, your webpage should look something like:
 ![image](pokemon.png)
+6. Add a `div` tag containing each pokemon's name next to their image using `makeDivTag()` function.
+![another_image](names.png)
+
+#### Challenge
+How would you go about adding some styling to the webpage? Try to change the color of the background and the color of the text according to the pokemon's type.  
