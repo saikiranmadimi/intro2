@@ -19,6 +19,7 @@ The sample HTML code above is really just a long string. Write a python function
 3. Make a helper function `makeDivTag(material)` that receives a string that gets placed in between the opening and closing `div` tags as a string.
 4. Make a helper function `makeImgTag(link)` that receives a string that gets placed inside the `src` attribute.
 5. Write a function `makeWebpage(content)` that makes the `html` and `body` tags and calls the two helper functions you created to put together the html page you see above. You will need a variable that starts off as an empty string that you keep adding to create the content that goes in between the `body` tags.
+6. Your HTML code should be a giant string. Once you're done building out the string, then write the string to your `.html` file.
 
 ## Part II: Generating a Webpage from a CSV File
 #### Pokemon Image Maker
@@ -34,7 +35,7 @@ makPokemonImgTag("charmander") # returns "https://img.pokemondb.net/sprites/x-y/
 ```
 
 #### Reading from a CSV File
-1. Make a function `makePokemonWebPage()` that opens the `pokemon.csv` file.
+1. Make a function `makePokemonWebPage()` that opens the `pokemon.csv` file. Download the `.csv` file [here](pokemon.csv) by selecting the raw button and right clicking to save as.
 2. Use the `makeWebPage()` inside.
 3. Read through the lines of the `pokemon.csv` using the appropriate method.
 3. Loop through the lines extracting the name of the Pokemon.
