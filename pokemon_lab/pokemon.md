@@ -45,5 +45,12 @@ makPokemonImgTag("charmander") # returns "https://img.pokemondb.net/sprites/x-y/
 6. Add a `div` tag containing each pokemon's name next to their image using `makeDivTag()` function.
 ![another_image](names.png)
 
-#### Challenge
-How would you go about adding some styling to the webpage? Try to change the color of the background and the color of the text according to the pokemon's type.  
+#### Adding CSS
+```CSS
+.grass {
+  color: green
+}
+```
+1. Make a `.css file` and pick a color for each Pokemon Type.
+2. Write a function that replaces the `<div>` for the Pokemon's name with `<div class="TYPE">`
+3. The CSS file should style the color of the text to reflect the type of the Pokemon. For example, a grass type Pokemon should be green. Fire should be red. Water should be blue...
