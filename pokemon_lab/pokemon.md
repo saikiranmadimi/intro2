@@ -46,6 +46,13 @@ makPokemonImgTag("charmander") # returns "https://img.pokemondb.net/sprites/x-y/
 ![another_image](names.png)
 
 #### Adding CSS
+```python
+types = ["grass", "water", "fire"]
+colors = ["green", "blue", "red"]
+# how would you write a function that receives a type
+# and returns the corresponding color using two arrays
+# similar to the ones above
+```
 ```CSS
 .grass {
   color: green
@@ -54,3 +61,10 @@ makPokemonImgTag("charmander") # returns "https://img.pokemondb.net/sprites/x-y/
 1. Make a `.css file` and pick a color for each Pokemon Type.
 2. Write a function that replaces the `<div>` for the Pokemon's name with `<div class="TYPE">`
 3. The CSS file should style the color of the text to reflect the type of the Pokemon. For example, a grass type Pokemon should be green. Fire should be red. Water should be blue...
+4. See if you can take it a step further and use python to write the CSS file.
+5. Here are two arrays that'll help with creating the CSS file.
+```python
+types = ['Grass', 'Fire', 'Water', 'Bug', 'Normal', 'Poison', 'Electric', 'Ground', 'Fairy', 'Fighting', 'Psychic', 'Rock', 'Ghost', 'Ice', 'Dragon']
+colors = ["7ac757", "ee803b", "6a92ed", "a8b732", "a8a77a", "9e449e", "f7cf43", "dfbf6e", "ec9aac", "be322e", "f65a89", "b79f41", "6f5996", "9ad8d8", "7043f4"]
+
+```
