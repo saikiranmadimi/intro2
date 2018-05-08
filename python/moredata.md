@@ -11,7 +11,7 @@ split("hello world", "o") #returns ['hell', ' w', 'rld']
 ```python
 join(arr, val)
 join('Pokemon!', 'Gotta', 'Catch', "'Em", 'All'], " ") #returns "Pokemon! Gotta Catch 'Em All"
-joing(['hell', ' w', 'rld'], " ") #returns hello world
+joing(['hell', ' w', 'rld'], "o") #returns hello world
 ```
 
 ### Tom_Sawyer_Preface.txt
