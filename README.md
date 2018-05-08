@@ -5,6 +5,7 @@
 ## Schedule
 |  Date      | Lesson |
 |:----------:|:------:|
+| 2018-05-08|[Python: Split and Join](python.moredata.md)|
 | 2018-05-02|[Python: Pokemon Lab](pokemon_lab/pokemon.md)|
 | 2018-05-01|[Python: CSV II](python/sats.md)|
 | 2018-04-26|[Python: Exam 2](python/exam2.md)|
