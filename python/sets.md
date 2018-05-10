@@ -2,7 +2,7 @@
 A set in python borrows from the conventional set in mathematics. It can only store unique values. In other words, you can never have duplicates in a set.
 
 ## Tasks
-Using documentation and the python shell, find the answers to the following questions.
+Using documentation and the python shell, find the answers to the following questions. **you actually don't really need the internet**
 1. How can you make a set?
 2. How do you add to a set?
 3. How do you remove a set?
