@@ -32,7 +32,7 @@ You'll need to revisit processing input from the user and opening files to compl
 
 4. Write the python script, madlibs.py, which reads from **text file** from `jungle.txt`, prompts the user for appropriate input, then generates the file `new_jungle.txt` containing the user's input substituted appropriately into `jungle.txt`.
 
-5. Write a second script to process `newspaper.txt`. You are allowed to modify the keys in `newspaper.txt` for your convenience.
+5. Write a second script to process `newspaper.txt`. You are allowed to modify the values inside the `{}` in `newspaper.txt` for your convenience.
 
 ## jungle.txt
 ```
