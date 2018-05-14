@@ -5,6 +5,7 @@
 ## Schedule
 |  Date      | Lesson |
 |:----------:|:------:|
+| 2018-05-14|[Python: Dictionaries & Modules](python/dict.md)|
 | 2018-05-10|[Python: String Formatting](python/format.md)|
 | 2018-05-09|[Python: Sets](python/sets.md)|
 | 2018-05-08|[Python: Split and Join](python/moredata.md)|
