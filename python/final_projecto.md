@@ -1,6 +1,6 @@
 ## A Look Ahead
 1. Multiple Choice Quiz (Friday June 1st)
-2. Final Exam (Friday June 8th) - You will be given a reference sheet 
+2. Final Exam (Friday June 8th) - You will be given a reference sheet
 3. Final Project (Monday June 11th)
 
 ## Final Project Start
@@ -31,4 +31,4 @@ b)Take a large data set that has a lot of parts to it, and find some trends/diff
 Part II: (we haven't learned this yet)
 Use interactive forms to allow the viewer of the website to select what they would like to see from the data set.
 
-Work with a partner on the project. Look at your partner's websites before you commit to a partner!
+Work with a partner in the same class period on the project.
