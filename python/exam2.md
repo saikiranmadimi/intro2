@@ -130,6 +130,8 @@ def lowFive():
 **c.** 20
 **d.** 25
 **e.** None of the above
+
+
 ###### Question 10  - What is the value of `cube` after running the code below?
 ```python
 cube = [[[1, 2], [3, 4]], [[5, 6], [7, 8]]]
