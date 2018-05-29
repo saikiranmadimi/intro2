@@ -5,6 +5,7 @@
 ## Schedule
 |  Date      | Lesson |
 |:----------:|:------:|
+| 2018-05-29|[FileZilla](python/filezilla.md)|
 | 2018-05-25|[HTML: Forms](python/forms.md)|
 | 2018-05-24|[Python: Final Project - Data](python/final_projecto.md)|
 | 2018-05-14|[Python: Dictionaries & Modules](python/dict.md)|
