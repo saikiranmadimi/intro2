@@ -1,34 +1,23 @@
-# FileZilla
-1. Make a `public_html` in your user account folder.
+## How to get HTML to run a Python file
 
-2. Use the FileZilla to go to sftp://149.89.160.101 and you'll need to enter your student ID and password.  When a directory is displayed, navigate to your public_html directory.
+1. Make sure you have a folder named `public_html` in the home directory of your Stuyvesant computer account.
 
-3. More resources for web related python:
-http://bert.stuy.edu/pbrooks/ml2/html_forms_guide.htm
+2. Open Filezilla and fill in the following fields -  
+- Host: `sftp://149.89.160.101`
+- Username: <YOUR_STUYVESANT_COMPUTER_LOGIN>
+- Password: <YOUR_STUYVESANT_COMPUTER_PASSWORD>
 
-4. Here is a sample website with forms:
-http://bert.stuy.edu/pbrooks/ml2/SampleQuestions.htm
-
-
-
-Simple way to get and use form data:
-
-See the following two files working together here:
-http://marge.stuy.edu/~konstans/formdemo/
-
-1. Create a form on your website. This can be an html file, or even a py file.
+3. Create an `.html` in your `public_html` folder
 ```html
 <form method="GET" action="formhandler.py">
-Name:
-<input type="text" name="name" size="20" value="Bob"><br>
-Repeat:
-<input type="text" name="count" size="20" value="0"><br>
-<input type="submit" name="varname" value="I'm done.">
+  Name: <input type="text" name="name" size="20" value="Bob"><br>
+  Repeat: <input type="text" name="count" size="20" value="0"><br>
+  <input type="submit" name="varname" value="I'm done.">
 </form>
 ```
 
-2. Create a form handling python program:
-```
+4. Make a file specifically named `formhandler.py` in your `public_html` folder.
+```python
 #!/usr/bin/python
 print "Content-type: text/html\n"
 
@@ -48,15 +37,6 @@ head = '''<!DOCTYPE html>
    <title>Demo!</title>
   </head>
   <body>'''
-
-
-print head
-
-main()
-
-print ''' </body>
-</html>'''
-
 
 # I include this function to convert a python cgi field storage to a standard dictionary.
 # This is good enough for 95% of all forms you would want to create!
@@ -103,4 +83,15 @@ def main():
         #GOOD BODY HERE
         for i in range(count):
             print "Hi "+form["name"]+"!<br>"
+
+print head
+
+main()
+
+print ''' </body>
+</html>'''
 ```
+
+5. Once you're logged into FileZilla, find the `formhandler.py` file in the right column. Right-click and select `File Permissions`. Check off all of the `Execute` checkboxes.
+
+6. Navigate to `marge.stuy.edu/~USERNAME` and click through to the `html` page you created. Fill out the form and submit. **YOU HAVE TO GO TO THE HTML PAGE FIRST**
