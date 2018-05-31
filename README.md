@@ -1,10 +1,13 @@
 # Introduction to Computer Science
 
 ## Announcements
-
+1. Info Session for a Google Project Mentorship program in room 307 @ 4pm.
+2. [CSTUY Interest Form](https://goo.gl/forms/KzGrIXxnDGUXpics1
+) - **Free** Summer Program runs from July 5th - July 24th. 
 ## Schedule
 |  Date      | Lesson |
 |:----------:|:------:|
+| 2018-05-31|[Python: cgi module](python/cgi.md)|
 | 2018-05-30|[Final project](python/rubric.md)|
 | 2018-05-29|[FileZilla](python/filezilla.md)|
 | 2018-05-25|[HTML: Forms](python/forms.md)|
