@@ -1,7 +1,6 @@
 ## Final Exam Study Guide
 
-You'll have this
-[Python CheatSheet](file:///Users/Kuang/Downloads/beginners_python_cheat_sheet_pcc%20(5).pdf). There will be around 10 multiple choice questions and a few free response questions.
+You'll be able to use the Beginner's Python Cheat Sheet on https://ehmatthes.github.io/pcc/cheatsheets/README.html. There will be around 10 multiple choice questions and a few free response questions.
 
 ### Python DataTypes
 - What happens when you try and perform operations on things that are different datatypes?
